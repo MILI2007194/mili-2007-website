@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MILI2007</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>MILI2007</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Lajme</a></li>
+                <li><a href="#">Veprime</a></li>
+                <li><a href="#">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="intro">
+        <h2>Mirësevini në MILI2007!</h2>
+        <p>Një faqe që pasqyron ngjarjet dhe veprimet kryesore të Iliria98.</p>
+    </section>
+
+    <section class="latest-news">
+        <h2>Lajmet e Fundit</h2>
+        <ul>
+            <li><a href="#">Lajmi 1 - Përditësimi i fundit i ngjarjeve</a></li>
+            <li><a href="#">Lajmi 2 - Veprimet më të fundit të Iliria98</a></li>
+            <li><a href="#">Lajmi 3 - Krijimi i lidhjeve të reja</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MILI2007. Të gjitha të drejtat e rezervuara.</p>
+    </footer>
+</body>
+</html>
